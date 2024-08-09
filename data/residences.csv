@@ -1,0 +1,40 @@
+id,street,latitude,longitude,call_sign
+1,"1600 Pennsylvania St, Denver, CO",39.7508,-104.997,Alpha 1
+2,"1701 Wynkoop St, Denver, CO",39.7566,-104.999,Alpha 2
+3,"2001 Blake St, Denver, CO",39.7595,-104.999,Alpha 3
+4,"100 W 14th Ave Pkwy, Denver, CO",39.7419,-105.002,Alpha 4
+5,"700 14th St, Denver, CO",39.7461,-104.998,Alpha 5
+6,"16th St Mall, Denver, CO",39.7472,-104.997,Alpha 6
+7,"1201 Larimer St, Denver, CO",39.7488,-105,Alpha 7
+8,"1401 Curtis St, Denver, CO",39.7494,-104.997,Alpha 8
+9,"1601 Arapahoe St, Denver, CO",39.75,-104.996,Bravo 1
+10,"Civic Center Park, Denver, CO",39.7396,-104.998,Bravo 2
+11,"Union Station, Denver, CO",39.7559,-105,Bravo 3
+12,"Denver Art Museum, Denver, CO",39.7326,-104.99,Bravo 4
+13,"Denver Botanic Gardens, Denver, CO",39.7219,-104.966,Bravo 5
+14,"Red Rocks Amphitheatre, Morrison, CO",39.6759,-105.205,Bravo 6
+15,"Coors Field, Denver, CO",39.7559,-104.994,Bravo 7
+16,"Pepsi Center, Denver, CO",39.7485,-105.007,Bravo 8
+17,"Denver Zoo, Denver, CO",39.7385,-104.969,Bravo 9
+18,"Elitch Gardens Theme Park, Denver, CO",39.7708,-105.02,Bravo 10
+19,"Cherry Creek Shopping Center, Denver, CO",39.7114,-104.953,Charlie 1
+20,"16th Street Mall, Denver, CO",39.7475,-104.996,Charlie 2
+21,"Denver Museum of Nature & Science, Denver, CO",39.7328,-104.958,Charlie 3
+22,"Washington Park, Denver, CO",39.7014,-104.967,Charlie 4
+23,"Cheesman Park, Denver, CO",39.7281,-104.969,Delta 1
+24,"City Park, Denver, CO",39.7333,-104.963,Delta 2
+25,"Sloan's Lake Park, Denver, CO",39.7581,-105.046,Delta 3
+26,"Confluence Park, Denver, CO",39.7542,-105.012,Delta 4
+27,"Denver Central Market, Denver, CO",39.7664,-105.009,Delta 5
+28,"The Source Hotel + Market Hall, Denver, CO",39.7694,-105.009,Delta 6
+29,"Denver Milk Market, Denver, CO",39.7497,-104.993,Delta 7
+30,"Avanti Food & Beverage, Denver, CO",39.7603,-105.01,Delta 8
+31,"Zeppelin Station, Denver, CO",39.7697,-105.003,Echo 1
+32,"The Brown Palace Hotel and Spa, Denver, CO",39.7469,-104.997,Echo 2
+33,"The Crawford Hotel, Denver, CO",39.7558,-105,Echo 3
+34,"The Oxford Hotel, Denver, CO",39.7481,-104.996,Echo 4
+35,"Hotel Teatro, Denver, CO",39.7464,-104.996,Echo 5
+36,"The Ramble Hotel, Denver, CO",39.7669,-105.004,Echo 6
+37,"The Maven Hotel at Dairy Block, Denver, CO",39.75,-104.993,Echo 7
+38,"Kimpton Hotel Born, Denver, CO",39.7569,-105.001,Kilo 1
+39,"Halcyon, a hotel in Cherry Creek, Denver, CO",39.7125,-104.953,Kilo 2

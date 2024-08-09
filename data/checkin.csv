@@ -1,0 +1,313 @@
+id,checkin_on,employee,street,latitude,longitude,call_sign,quality
+1,1/3/2024 12:47 PM,Horten Cuseck,"1600 Pennsylvania St, Denver, CO",39.7508,-104.997,Alpha 1,Broken but Readable
+2,1/3/2024 09:20 PM,Jayne Adamovich,"1701 Wynkoop St, Denver, CO",39.7566,-104.999,Alpha 2,Broken but Readable
+3,1/3/2024 11:39 PM,Nelson Fullard,"2001 Blake St, Denver, CO",39.7595,-104.999,Alpha 3,Broken but Readable
+4,1/3/2024 11:39 PM,Lynsey Scudders,"100 W 14th Ave Pkwy, Denver, CO",39.7419,-105.002,Alpha 4,No Attempt
+5,1/3/2024 04:01 PM,Ker Lashley,"700 14th St, Denver, CO",39.7461,-104.998,Alpha 5,Loud and Clear
+6,1/3/2024 09:50 AM,Daron Ciobutaro,"16th St Mall, Denver, CO",39.7472,-104.997,Alpha 6,Loud and Clear
+7,1/3/2024 10:19 AM,Ignazio Bohden,"1201 Larimer St, Denver, CO",39.7488,-105,Alpha 7,Broken and Unreadable
+8,1/3/2024 06:53 PM,Willi Batstone,"1401 Curtis St, Denver, CO",39.7494,-104.997,Alpha 8,Loud and Clear
+9,1/3/2024 04:43 PM,Dilly Suter,"1601 Arapahoe St, Denver, CO",39.75,-104.996,Bravo 1,No Attempt
+10,1/3/2024 11:48 AM,Almeria Clothier,"Civic Center Park, Denver, CO",39.7396,-104.998,Bravo 2,Loud and Clear
+11,1/3/2024 07:58 AM,Obidiah Lynd,"Union Station, Denver, CO",39.7559,-105,Bravo 3,Loud and Clear
+12,1/3/2024 09:55 AM,Dee dee Lainton,"Denver Art Museum, Denver, CO",39.7326,-104.99,Bravo 4,Broken and Unreadable
+13,1/3/2024 02:55 PM,Elsi Clare,"Denver Botanic Gardens, Denver, CO",39.7219,-104.966,Bravo 5,Failed
+14,1/3/2024 08:38 AM,Niki Bentz,"Red Rocks Amphitheatre, Morrison, CO",39.6759,-105.205,Bravo 6,Loud and Clear
+15,1/3/2024 10:16 PM,Grace Aronsohn,"Coors Field, Denver, CO",39.7559,-104.994,Bravo 7,Broken but Readable
+16,1/3/2024 09:20 PM,Sherm Mallett,"Pepsi Center, Denver, CO",39.7485,-105.007,Bravo 8,Broken and Unreadable
+17,1/3/2024 08:01 PM,Alecia Ommundsen,"Denver Zoo, Denver, CO",39.7385,-104.969,Bravo 9,Broken but Readable
+18,1/3/2024 10:35 AM,Steve Iashvili,"Elitch Gardens Theme Park, Denver, CO",39.7708,-105.02,Bravo 10,Failed
+19,1/3/2024 05:15 PM,Judd Kennelly,"Cherry Creek Shopping Center, Denver, CO",39.7114,-104.953,Charlie 1,Failed
+20,1/3/2024 07:48 AM,Laetitia Kelway,"16th Street Mall, Denver, CO",39.7475,-104.996,Charlie 2,Failed
+21,1/3/2024 12:05 PM,Denice Berzin,"Denver Museum of Nature & Science, Denver, CO",39.7328,-104.958,Charlie 3,Loud and Clear
+22,1/3/2024 08:06 AM,Luther Seear,"Washington Park, Denver, CO",39.7014,-104.967,Charlie 4,Broken but Readable
+23,1/3/2024 06:39 PM,Nikki Le Marchant,"Cheesman Park, Denver, CO",39.7281,-104.969,Delta 1,Broken but Readable
+24,1/3/2024 10:02 AM,Brenden Rasor,"City Park, Denver, CO",39.7333,-104.963,Delta 2,Loud and Clear
+25,1/3/2024 01:24 PM,Jodi McFadin,"Sloan's Lake Park, Denver, CO",39.7581,-105.046,Delta 3,No Attempt
+26,1/3/2024 03:31 PM,Nikos Witherow,"Confluence Park, Denver, CO",39.7542,-105.012,Delta 4,Loud and Clear
+27,1/3/2024 08:32 AM,Kienan Stanlack,"Denver Central Market, Denver, CO",39.7664,-105.009,Delta 5,Broken and Unreadable
+28,1/3/2024 03:25 PM,Tabby Burth,"The Source Hotel + Market Hall, Denver, CO",39.7694,-105.009,Delta 6,Failed
+29,1/3/2024 09:18 AM,Valentin Windus,"Denver Milk Market, Denver, CO",39.7497,-104.993,Delta 7,Loud and Clear
+30,1/3/2024 08:43 AM,Kent Daniel,"Avanti Food & Beverage, Denver, CO",39.7603,-105.01,Delta 8,Broken and Unreadable
+31,1/3/2024 10:59 AM,Beverley D'Almeida,"Zeppelin Station, Denver, CO",39.7697,-105.003,Echo 1,Broken but Readable
+32,1/3/2024 12:50 PM,Wilma Wahncke,"The Brown Palace Hotel and Spa, Denver, CO",39.7469,-104.997,Echo 2,Broken but Readable
+33,1/3/2024 11:06 PM,Janeczka Hefferan,"The Crawford Hotel, Denver, CO",39.7558,-105,Echo 3,Broken and Unreadable
+34,1/3/2024 04:18 PM,Nance Copperwaite,"The Oxford Hotel, Denver, CO",39.7481,-104.996,Echo 4,Broken but Readable
+35,1/3/2024 09:02 AM,Gregg Brugman,"Hotel Teatro, Denver, CO",39.7464,-104.996,Echo 5,Loud and Clear
+36,1/3/2024 11:14 PM,Zacharie Kenrat,"The Ramble Hotel, Denver, CO",39.7669,-105.004,Echo 6,Broken and Unreadable
+37,1/3/2024 07:53 AM,Jedidiah Lunbech,"The Maven Hotel at Dairy Block, Denver, CO",39.75,-104.993,Echo 7,Loud and Clear
+38,1/3/2024 03:54 PM,Morissa Itshak,"Kimpton Hotel Born, Denver, CO",39.7569,-105.001,Kilo 1,Failed
+39,1/3/2024 05:40 PM,Marius Pickerill,"Halcyon, a hotel in Cherry Creek, Denver, CO",39.7125,-104.953,Kilo 2,Broken and Unreadable
+40,2/7/2024 02:40 PM,Horten Cuseck,"1600 Pennsylvania St, Denver, CO",39.7508,-104.997,Alpha 1,Broken and Unreadable
+41,2/7/2024 10:30 PM,Jayne Adamovich,"1701 Wynkoop St, Denver, CO",39.7566,-104.999,Alpha 2,Failed
+42,2/7/2024 09:43 PM,Nelson Fullard,"2001 Blake St, Denver, CO",39.7595,-104.999,Alpha 3,Loud and Clear
+43,2/7/2024 12:30 PM,Lynsey Scudders,"100 W 14th Ave Pkwy, Denver, CO",39.7419,-105.002,Alpha 4,Loud and Clear
+44,2/7/2024 05:06 PM,Ker Lashley,"700 14th St, Denver, CO",39.7461,-104.998,Alpha 5,Broken but Readable
+45,2/7/2024 02:02 PM,Daron Ciobutaro,"16th St Mall, Denver, CO",39.7472,-104.997,Alpha 6,Loud and Clear
+46,2/7/2024 10:44 AM,Ignazio Bohden,"1201 Larimer St, Denver, CO",39.7488,-105,Alpha 7,Broken and Unreadable
+47,2/7/2024 06:07 PM,Willi Batstone,"1401 Curtis St, Denver, CO",39.7494,-104.997,Alpha 8,Broken and Unreadable
+48,2/7/2024 03:15 PM,Dilly Suter,"1601 Arapahoe St, Denver, CO",39.75,-104.996,Bravo 1,Failed
+49,2/7/2024 02:30 PM,Almeria Clothier,"Civic Center Park, Denver, CO",39.7396,-104.998,Bravo 2,Loud and Clear
+50,2/7/2024 09:39 PM,Obidiah Lynd,"Union Station, Denver, CO",39.7559,-105,Bravo 3,Failed
+51,2/7/2024 12:30 PM,Dee dee Lainton,"Denver Art Museum, Denver, CO",39.7326,-104.99,Bravo 4,Failed
+52,2/7/2024 02:06 PM,Elsi Clare,"Denver Botanic Gardens, Denver, CO",39.7219,-104.966,Bravo 5,No Attempt
+53,2/7/2024 08:13 AM,Niki Bentz,"Red Rocks Amphitheatre, Morrison, CO",39.6759,-105.205,Bravo 6,Broken and Unreadable
+54,2/7/2024 06:16 PM,Grace Aronsohn,"Coors Field, Denver, CO",39.7559,-104.994,Bravo 7,Broken and Unreadable
+55,2/7/2024 08:31 AM,Sherm Mallett,"Pepsi Center, Denver, CO",39.7485,-105.007,Bravo 8,Failed
+56,2/7/2024 08:12 AM,Alecia Ommundsen,"Denver Zoo, Denver, CO",39.7385,-104.969,Bravo 9,Broken but Readable
+57,2/7/2024 09:59 PM,Steve Iashvili,"Elitch Gardens Theme Park, Denver, CO",39.7708,-105.02,Bravo 10,Broken but Readable
+58,2/7/2024 09:36 AM,Judd Kennelly,"Cherry Creek Shopping Center, Denver, CO",39.7114,-104.953,Charlie 1,Broken but Readable
+59,2/7/2024 09:59 AM,Laetitia Kelway,"16th Street Mall, Denver, CO",39.7475,-104.996,Charlie 2,Broken but Readable
+60,2/7/2024 08:32 PM,Denice Berzin,"Denver Museum of Nature & Science, Denver, CO",39.7328,-104.958,Charlie 3,Failed
+61,2/7/2024 12:44 PM,Luther Seear,"Washington Park, Denver, CO",39.7014,-104.967,Charlie 4,No Attempt
+62,2/7/2024 05:58 PM,Nikki Le Marchant,"Cheesman Park, Denver, CO",39.7281,-104.969,Delta 1,Broken and Unreadable
+63,2/7/2024 09:10 PM,Brenden Rasor,"City Park, Denver, CO",39.7333,-104.963,Delta 2,No Attempt
+64,2/7/2024 10:56 PM,Jodi McFadin,"Sloan's Lake Park, Denver, CO",39.7581,-105.046,Delta 3,Broken but Readable
+65,2/7/2024 08:41 PM,Nikos Witherow,"Confluence Park, Denver, CO",39.7542,-105.012,Delta 4,No Attempt
+66,2/7/2024 02:02 PM,Kienan Stanlack,"Denver Central Market, Denver, CO",39.7664,-105.009,Delta 5,Broken and Unreadable
+67,2/7/2024 10:03 PM,Tabby Burth,"The Source Hotel + Market Hall, Denver, CO",39.7694,-105.009,Delta 6,Failed
+68,2/7/2024 08:38 PM,Valentin Windus,"Denver Milk Market, Denver, CO",39.7497,-104.993,Delta 7,Failed
+69,2/7/2024 02:21 PM,Kent Daniel,"Avanti Food & Beverage, Denver, CO",39.7603,-105.01,Delta 8,Broken but Readable
+70,2/7/2024 09:03 PM,Beverley D'Almeida,"Zeppelin Station, Denver, CO",39.7697,-105.003,Echo 1,Failed
+71,2/7/2024 11:49 AM,Wilma Wahncke,"The Brown Palace Hotel and Spa, Denver, CO",39.7469,-104.997,Echo 2,No Attempt
+72,2/7/2024 04:38 PM,Janeczka Hefferan,"The Crawford Hotel, Denver, CO",39.7558,-105,Echo 3,Broken but Readable
+73,2/7/2024 11:16 AM,Nance Copperwaite,"The Oxford Hotel, Denver, CO",39.7481,-104.996,Echo 4,Failed
+74,2/7/2024 08:15 AM,Gregg Brugman,"Hotel Teatro, Denver, CO",39.7464,-104.996,Echo 5,Loud and Clear
+75,2/7/2024 03:30 PM,Zacharie Kenrat,"The Ramble Hotel, Denver, CO",39.7669,-105.004,Echo 6,Broken but Readable
+76,2/7/2024 09:51 PM,Jedidiah Lunbech,"The Maven Hotel at Dairy Block, Denver, CO",39.75,-104.993,Echo 7,Failed
+77,2/7/2024 11:53 AM,Morissa Itshak,"Kimpton Hotel Born, Denver, CO",39.7569,-105.001,Kilo 1,No Attempt
+78,2/7/2024 04:38 PM,Marius Pickerill,"Halcyon, a hotel in Cherry Creek, Denver, CO",39.7125,-104.953,Kilo 2,Broken but Readable
+79,3/6/2024 07:22 PM,Horten Cuseck,"1600 Pennsylvania St, Denver, CO",39.7508,-104.997,Alpha 1,No Attempt
+80,3/6/2024 05:42 PM,Jayne Adamovich,"1701 Wynkoop St, Denver, CO",39.7566,-104.999,Alpha 2,Broken and Unreadable
+81,3/6/2024 10:43 AM,Nelson Fullard,"2001 Blake St, Denver, CO",39.7595,-104.999,Alpha 3,Loud and Clear
+82,3/6/2024 07:59 AM,Lynsey Scudders,"100 W 14th Ave Pkwy, Denver, CO",39.7419,-105.002,Alpha 4,Broken and Unreadable
+83,3/6/2024 06:17 PM,Ker Lashley,"700 14th St, Denver, CO",39.7461,-104.998,Alpha 5,Loud and Clear
+84,3/6/2024 07:26 AM,Daron Ciobutaro,"16th St Mall, Denver, CO",39.7472,-104.997,Alpha 6,Broken and Unreadable
+85,3/6/2024 07:40 PM,Ignazio Bohden,"1201 Larimer St, Denver, CO",39.7488,-105,Alpha 7,Loud and Clear
+86,3/6/2024 04:21 PM,Willi Batstone,"1401 Curtis St, Denver, CO",39.7494,-104.997,Alpha 8,Broken but Readable
+87,3/6/2024 10:13 AM,Dilly Suter,"1601 Arapahoe St, Denver, CO",39.75,-104.996,Bravo 1,Failed
+88,3/6/2024 07:21 PM,Almeria Clothier,"Civic Center Park, Denver, CO",39.7396,-104.998,Bravo 2,Loud and Clear
+89,3/6/2024 05:33 PM,Obidiah Lynd,"Union Station, Denver, CO",39.7559,-105,Bravo 3,Broken and Unreadable
+90,3/6/2024 08:47 PM,Dee dee Lainton,"Denver Art Museum, Denver, CO",39.7326,-104.99,Bravo 4,Broken but Readable
+91,3/6/2024 08:22 PM,Elsi Clare,"Denver Botanic Gardens, Denver, CO",39.7219,-104.966,Bravo 5,Broken and Unreadable
+92,3/6/2024 06:44 PM,Niki Bentz,"Red Rocks Amphitheatre, Morrison, CO",39.6759,-105.205,Bravo 6,Broken and Unreadable
+93,3/6/2024 11:05 PM,Grace Aronsohn,"Coors Field, Denver, CO",39.7559,-104.994,Bravo 7,Failed
+94,3/6/2024 02:06 PM,Sherm Mallett,"Pepsi Center, Denver, CO",39.7485,-105.007,Bravo 8,Failed
+95,3/6/2024 08:36 PM,Alecia Ommundsen,"Denver Zoo, Denver, CO",39.7385,-104.969,Bravo 9,No Attempt
+96,3/6/2024 10:38 AM,Steve Iashvili,"Elitch Gardens Theme Park, Denver, CO",39.7708,-105.02,Bravo 10,Broken and Unreadable
+97,3/6/2024 12:13 PM,Judd Kennelly,"Cherry Creek Shopping Center, Denver, CO",39.7114,-104.953,Charlie 1,Failed
+98,3/6/2024 11:07 AM,Laetitia Kelway,"16th Street Mall, Denver, CO",39.7475,-104.996,Charlie 2,Broken and Unreadable
+99,3/6/2024 12:00 PM,Denice Berzin,"Denver Museum of Nature & Science, Denver, CO",39.7328,-104.958,Charlie 3,Broken and Unreadable
+100,3/6/2024 05:54 PM,Luther Seear,"Washington Park, Denver, CO",39.7014,-104.967,Charlie 4,Failed
+101,3/6/2024 10:22 AM,Nikki Le Marchant,"Cheesman Park, Denver, CO",39.7281,-104.969,Delta 1,Failed
+102,3/6/2024 06:29 PM,Brenden Rasor,"City Park, Denver, CO",39.7333,-104.963,Delta 2,Loud and Clear
+103,3/6/2024 01:49 PM,Jodi McFadin,"Sloan's Lake Park, Denver, CO",39.7581,-105.046,Delta 3,Loud and Clear
+104,3/6/2024 07:17 PM,Nikos Witherow,"Confluence Park, Denver, CO",39.7542,-105.012,Delta 4,Broken but Readable
+105,3/6/2024 07:07 AM,Kienan Stanlack,"Denver Central Market, Denver, CO",39.7664,-105.009,Delta 5,No Attempt
+106,3/6/2024 04:23 PM,Tabby Burth,"The Source Hotel + Market Hall, Denver, CO",39.7694,-105.009,Delta 6,Broken and Unreadable
+107,3/6/2024 08:27 PM,Valentin Windus,"Denver Milk Market, Denver, CO",39.7497,-104.993,Delta 7,No Attempt
+108,3/6/2024 07:08 AM,Kent Daniel,"Avanti Food & Beverage, Denver, CO",39.7603,-105.01,Delta 8,Loud and Clear
+109,3/6/2024 02:56 PM,Beverley D'Almeida,"Zeppelin Station, Denver, CO",39.7697,-105.003,Echo 1,Broken but Readable
+110,3/6/2024 07:04 PM,Wilma Wahncke,"The Brown Palace Hotel and Spa, Denver, CO",39.7469,-104.997,Echo 2,Broken but Readable
+111,3/6/2024 08:41 AM,Janeczka Hefferan,"The Crawford Hotel, Denver, CO",39.7558,-105,Echo 3,Broken but Readable
+112,3/6/2024 11:02 PM,Nance Copperwaite,"The Oxford Hotel, Denver, CO",39.7481,-104.996,Echo 4,Loud and Clear
+113,3/6/2024 08:39 PM,Gregg Brugman,"Hotel Teatro, Denver, CO",39.7464,-104.996,Echo 5,Loud and Clear
+114,3/6/2024 08:11 PM,Zacharie Kenrat,"The Ramble Hotel, Denver, CO",39.7669,-105.004,Echo 6,Broken and Unreadable
+115,3/6/2024 06:24 PM,Jedidiah Lunbech,"The Maven Hotel at Dairy Block, Denver, CO",39.75,-104.993,Echo 7,No Attempt
+116,3/6/2024 12:26 PM,Morissa Itshak,"Kimpton Hotel Born, Denver, CO",39.7569,-105.001,Kilo 1,Failed
+117,3/6/2024 05:20 PM,Marius Pickerill,"Halcyon, a hotel in Cherry Creek, Denver, CO",39.7125,-104.953,Kilo 2,Broken but Readable
+118,4/3/2024 08:57 AM,Horten Cuseck,"1600 Pennsylvania St, Denver, CO",39.7508,-104.997,Alpha 1,Failed
+119,4/3/2024 02:26 PM,Jayne Adamovich,"1701 Wynkoop St, Denver, CO",39.7566,-104.999,Alpha 2,Broken but Readable
+120,4/3/2024 10:25 PM,Nelson Fullard,"2001 Blake St, Denver, CO",39.7595,-104.999,Alpha 3,Failed
+121,4/3/2024 08:21 AM,Lynsey Scudders,"100 W 14th Ave Pkwy, Denver, CO",39.7419,-105.002,Alpha 4,Loud and Clear
+122,4/3/2024 11:37 PM,Ker Lashley,"700 14th St, Denver, CO",39.7461,-104.998,Alpha 5,Broken but Readable
+123,4/3/2024 03:30 PM,Daron Ciobutaro,"16th St Mall, Denver, CO",39.7472,-104.997,Alpha 6,No Attempt
+124,4/3/2024 07:04 AM,Ignazio Bohden,"1201 Larimer St, Denver, CO",39.7488,-105,Alpha 7,Loud and Clear
+125,4/3/2024 09:30 PM,Willi Batstone,"1401 Curtis St, Denver, CO",39.7494,-104.997,Alpha 8,Failed
+126,4/3/2024 07:32 AM,Dilly Suter,"1601 Arapahoe St, Denver, CO",39.75,-104.996,Bravo 1,Broken but Readable
+127,4/3/2024 07:42 AM,Almeria Clothier,"Civic Center Park, Denver, CO",39.7396,-104.998,Bravo 2,Failed
+128,4/3/2024 11:24 PM,Obidiah Lynd,"Union Station, Denver, CO",39.7559,-105,Bravo 3,Failed
+129,4/3/2024 05:48 PM,Dee dee Lainton,"Denver Art Museum, Denver, CO",39.7326,-104.99,Bravo 4,Failed
+130,4/3/2024 06:15 PM,Elsi Clare,"Denver Botanic Gardens, Denver, CO",39.7219,-104.966,Bravo 5,Broken and Unreadable
+131,4/3/2024 07:00 PM,Niki Bentz,"Red Rocks Amphitheatre, Morrison, CO",39.6759,-105.205,Bravo 6,No Attempt
+132,4/3/2024 01:54 PM,Grace Aronsohn,"Coors Field, Denver, CO",39.7559,-104.994,Bravo 7,Broken and Unreadable
+133,4/3/2024 12:40 PM,Sherm Mallett,"Pepsi Center, Denver, CO",39.7485,-105.007,Bravo 8,Broken and Unreadable
+134,4/3/2024 10:44 PM,Alecia Ommundsen,"Denver Zoo, Denver, CO",39.7385,-104.969,Bravo 9,Broken but Readable
+135,4/3/2024 08:02 PM,Steve Iashvili,"Elitch Gardens Theme Park, Denver, CO",39.7708,-105.02,Bravo 10,No Attempt
+136,4/3/2024 06:48 PM,Judd Kennelly,"Cherry Creek Shopping Center, Denver, CO",39.7114,-104.953,Charlie 1,No Attempt
+137,4/3/2024 10:43 PM,Laetitia Kelway,"16th Street Mall, Denver, CO",39.7475,-104.996,Charlie 2,Broken and Unreadable
+138,4/3/2024 09:55 PM,Denice Berzin,"Denver Museum of Nature & Science, Denver, CO",39.7328,-104.958,Charlie 3,Loud and Clear
+139,4/3/2024 10:01 PM,Luther Seear,"Washington Park, Denver, CO",39.7014,-104.967,Charlie 4,Loud and Clear
+140,4/3/2024 07:03 AM,Nikki Le Marchant,"Cheesman Park, Denver, CO",39.7281,-104.969,Delta 1,Broken and Unreadable
+141,4/3/2024 06:44 PM,Brenden Rasor,"City Park, Denver, CO",39.7333,-104.963,Delta 2,Loud and Clear
+142,4/3/2024 05:18 PM,Jodi McFadin,"Sloan's Lake Park, Denver, CO",39.7581,-105.046,Delta 3,Broken but Readable
+143,4/3/2024 11:32 PM,Nikos Witherow,"Confluence Park, Denver, CO",39.7542,-105.012,Delta 4,No Attempt
+144,4/3/2024 03:15 PM,Kienan Stanlack,"Denver Central Market, Denver, CO",39.7664,-105.009,Delta 5,Broken but Readable
+145,4/3/2024 10:02 PM,Tabby Burth,"The Source Hotel + Market Hall, Denver, CO",39.7694,-105.009,Delta 6,Loud and Clear
+146,4/3/2024 02:33 PM,Valentin Windus,"Denver Milk Market, Denver, CO",39.7497,-104.993,Delta 7,Broken and Unreadable
+147,4/3/2024 07:34 AM,Kent Daniel,"Avanti Food & Beverage, Denver, CO",39.7603,-105.01,Delta 8,No Attempt
+148,4/3/2024 10:24 AM,Beverley D'Almeida,"Zeppelin Station, Denver, CO",39.7697,-105.003,Echo 1,Broken and Unreadable
+149,4/3/2024 11:42 PM,Wilma Wahncke,"The Brown Palace Hotel and Spa, Denver, CO",39.7469,-104.997,Echo 2,Loud and Clear
+150,4/3/2024 01:06 PM,Janeczka Hefferan,"The Crawford Hotel, Denver, CO",39.7558,-105,Echo 3,Broken but Readable
+151,4/3/2024 02:12 PM,Nance Copperwaite,"The Oxford Hotel, Denver, CO",39.7481,-104.996,Echo 4,No Attempt
+152,4/3/2024 11:56 AM,Gregg Brugman,"Hotel Teatro, Denver, CO",39.7464,-104.996,Echo 5,Loud and Clear
+153,4/3/2024 08:26 PM,Zacharie Kenrat,"The Ramble Hotel, Denver, CO",39.7669,-105.004,Echo 6,Broken but Readable
+154,4/3/2024 11:28 AM,Jedidiah Lunbech,"The Maven Hotel at Dairy Block, Denver, CO",39.75,-104.993,Echo 7,Broken but Readable
+155,4/3/2024 09:32 AM,Morissa Itshak,"Kimpton Hotel Born, Denver, CO",39.7569,-105.001,Kilo 1,No Attempt
+156,4/3/2024 04:13 PM,Marius Pickerill,"Halcyon, a hotel in Cherry Creek, Denver, CO",39.7125,-104.953,Kilo 2,Broken and Unreadable
+157,5/1/2024 06:04 PM,Horten Cuseck,"1600 Pennsylvania St, Denver, CO",39.7508,-104.997,Alpha 1,Loud and Clear
+158,5/1/2024 09:41 AM,Jayne Adamovich,"1701 Wynkoop St, Denver, CO",39.7566,-104.999,Alpha 2,Failed
+159,5/1/2024 04:01 PM,Nelson Fullard,"2001 Blake St, Denver, CO",39.7595,-104.999,Alpha 3,Broken but Readable
+160,5/1/2024 07:38 PM,Lynsey Scudders,"100 W 14th Ave Pkwy, Denver, CO",39.7419,-105.002,Alpha 4,Loud and Clear
+161,5/1/2024 12:55 PM,Ker Lashley,"700 14th St, Denver, CO",39.7461,-104.998,Alpha 5,Broken but Readable
+162,5/1/2024 07:02 AM,Daron Ciobutaro,"16th St Mall, Denver, CO",39.7472,-104.997,Alpha 6,No Attempt
+163,5/1/2024 01:39 PM,Ignazio Bohden,"1201 Larimer St, Denver, CO",39.7488,-105,Alpha 7,Failed
+164,5/1/2024 07:56 PM,Willi Batstone,"1401 Curtis St, Denver, CO",39.7494,-104.997,Alpha 8,Broken and Unreadable
+165,5/1/2024 09:24 AM,Dilly Suter,"1601 Arapahoe St, Denver, CO",39.75,-104.996,Bravo 1,No Attempt
+166,5/1/2024 09:56 PM,Almeria Clothier,"Civic Center Park, Denver, CO",39.7396,-104.998,Bravo 2,Broken and Unreadable
+167,5/1/2024 01:15 PM,Obidiah Lynd,"Union Station, Denver, CO",39.7559,-105,Bravo 3,Failed
+168,5/1/2024 09:15 AM,Dee dee Lainton,"Denver Art Museum, Denver, CO",39.7326,-104.99,Bravo 4,Broken but Readable
+169,5/1/2024 08:02 PM,Elsi Clare,"Denver Botanic Gardens, Denver, CO",39.7219,-104.966,Bravo 5,Broken and Unreadable
+170,5/1/2024 11:24 PM,Niki Bentz,"Red Rocks Amphitheatre, Morrison, CO",39.6759,-105.205,Bravo 6,Broken and Unreadable
+171,5/1/2024 12:57 PM,Grace Aronsohn,"Coors Field, Denver, CO",39.7559,-104.994,Bravo 7,Loud and Clear
+172,5/1/2024 03:36 PM,Sherm Mallett,"Pepsi Center, Denver, CO",39.7485,-105.007,Bravo 8,No Attempt
+173,5/1/2024 07:39 AM,Alecia Ommundsen,"Denver Zoo, Denver, CO",39.7385,-104.969,Bravo 9,Failed
+174,5/1/2024 10:37 PM,Steve Iashvili,"Elitch Gardens Theme Park, Denver, CO",39.7708,-105.02,Bravo 10,Failed
+175,5/1/2024 10:02 PM,Judd Kennelly,"Cherry Creek Shopping Center, Denver, CO",39.7114,-104.953,Charlie 1,Broken and Unreadable
+176,5/1/2024 02:11 PM,Laetitia Kelway,"16th Street Mall, Denver, CO",39.7475,-104.996,Charlie 2,No Attempt
+177,5/1/2024 09:36 PM,Denice Berzin,"Denver Museum of Nature & Science, Denver, CO",39.7328,-104.958,Charlie 3,Broken and Unreadable
+178,5/1/2024 11:04 AM,Luther Seear,"Washington Park, Denver, CO",39.7014,-104.967,Charlie 4,Failed
+179,5/1/2024 10:42 PM,Nikki Le Marchant,"Cheesman Park, Denver, CO",39.7281,-104.969,Delta 1,Broken but Readable
+180,5/1/2024 09:39 PM,Brenden Rasor,"City Park, Denver, CO",39.7333,-104.963,Delta 2,Broken but Readable
+181,5/1/2024 01:33 PM,Jodi McFadin,"Sloan's Lake Park, Denver, CO",39.7581,-105.046,Delta 3,Loud and Clear
+182,5/1/2024 01:49 PM,Nikos Witherow,"Confluence Park, Denver, CO",39.7542,-105.012,Delta 4,Broken but Readable
+183,5/1/2024 07:06 AM,Kienan Stanlack,"Denver Central Market, Denver, CO",39.7664,-105.009,Delta 5,Broken and Unreadable
+184,5/1/2024 09:48 AM,Tabby Burth,"The Source Hotel + Market Hall, Denver, CO",39.7694,-105.009,Delta 6,Failed
+185,5/1/2024 08:10 AM,Valentin Windus,"Denver Milk Market, Denver, CO",39.7497,-104.993,Delta 7,Broken but Readable
+186,5/1/2024 10:00 AM,Kent Daniel,"Avanti Food & Beverage, Denver, CO",39.7603,-105.01,Delta 8,No Attempt
+187,5/1/2024 05:56 PM,Beverley D'Almeida,"Zeppelin Station, Denver, CO",39.7697,-105.003,Echo 1,Failed
+188,5/1/2024 01:31 PM,Wilma Wahncke,"The Brown Palace Hotel and Spa, Denver, CO",39.7469,-104.997,Echo 2,Broken but Readable
+189,5/1/2024 03:05 PM,Janeczka Hefferan,"The Crawford Hotel, Denver, CO",39.7558,-105,Echo 3,Broken and Unreadable
+190,5/1/2024 09:24 PM,Nance Copperwaite,"The Oxford Hotel, Denver, CO",39.7481,-104.996,Echo 4,Failed
+191,5/1/2024 10:20 PM,Gregg Brugman,"Hotel Teatro, Denver, CO",39.7464,-104.996,Echo 5,Failed
+192,5/1/2024 05:52 PM,Zacharie Kenrat,"The Ramble Hotel, Denver, CO",39.7669,-105.004,Echo 6,Broken but Readable
+193,5/1/2024 12:55 PM,Jedidiah Lunbech,"The Maven Hotel at Dairy Block, Denver, CO",39.75,-104.993,Echo 7,Broken but Readable
+194,5/1/2024 12:54 PM,Morissa Itshak,"Kimpton Hotel Born, Denver, CO",39.7569,-105.001,Kilo 1,Loud and Clear
+195,5/1/2024 03:07 PM,Marius Pickerill,"Halcyon, a hotel in Cherry Creek, Denver, CO",39.7125,-104.953,Kilo 2,Failed
+196,6/5/2024 11:15 AM,Horten Cuseck,"1600 Pennsylvania St, Denver, CO",39.7508,-104.997,Alpha 1,Failed
+197,6/5/2024 08:00 PM,Jayne Adamovich,"1701 Wynkoop St, Denver, CO",39.7566,-104.999,Alpha 2,Loud and Clear
+198,6/5/2024 08:38 PM,Nelson Fullard,"2001 Blake St, Denver, CO",39.7595,-104.999,Alpha 3,Broken but Readable
+199,6/5/2024 09:09 PM,Lynsey Scudders,"100 W 14th Ave Pkwy, Denver, CO",39.7419,-105.002,Alpha 4,No Attempt
+200,6/5/2024 07:51 PM,Ker Lashley,"700 14th St, Denver, CO",39.7461,-104.998,Alpha 5,Broken but Readable
+201,6/5/2024 02:31 PM,Daron Ciobutaro,"16th St Mall, Denver, CO",39.7472,-104.997,Alpha 6,Broken and Unreadable
+202,6/5/2024 12:18 PM,Ignazio Bohden,"1201 Larimer St, Denver, CO",39.7488,-105,Alpha 7,No Attempt
+203,6/5/2024 08:40 PM,Willi Batstone,"1401 Curtis St, Denver, CO",39.7494,-104.997,Alpha 8,Failed
+204,6/5/2024 06:23 PM,Dilly Suter,"1601 Arapahoe St, Denver, CO",39.75,-104.996,Bravo 1,Broken and Unreadable
+205,6/5/2024 05:05 PM,Almeria Clothier,"Civic Center Park, Denver, CO",39.7396,-104.998,Bravo 2,Broken but Readable
+206,6/5/2024 11:02 AM,Obidiah Lynd,"Union Station, Denver, CO",39.7559,-105,Bravo 3,Loud and Clear
+207,6/5/2024 09:22 AM,Dee dee Lainton,"Denver Art Museum, Denver, CO",39.7326,-104.99,Bravo 4,Broken and Unreadable
+208,6/5/2024 04:23 PM,Elsi Clare,"Denver Botanic Gardens, Denver, CO",39.7219,-104.966,Bravo 5,Broken but Readable
+209,6/5/2024 10:33 PM,Niki Bentz,"Red Rocks Amphitheatre, Morrison, CO",39.6759,-105.205,Bravo 6,No Attempt
+210,6/5/2024 06:55 PM,Grace Aronsohn,"Coors Field, Denver, CO",39.7559,-104.994,Bravo 7,Loud and Clear
+211,6/5/2024 05:43 PM,Sherm Mallett,"Pepsi Center, Denver, CO",39.7485,-105.007,Bravo 8,Broken but Readable
+212,6/5/2024 09:48 PM,Alecia Ommundsen,"Denver Zoo, Denver, CO",39.7385,-104.969,Bravo 9,Failed
+213,6/5/2024 02:58 PM,Steve Iashvili,"Elitch Gardens Theme Park, Denver, CO",39.7708,-105.02,Bravo 10,Failed
+214,6/5/2024 11:44 AM,Judd Kennelly,"Cherry Creek Shopping Center, Denver, CO",39.7114,-104.953,Charlie 1,Broken and Unreadable
+215,6/5/2024 07:23 PM,Laetitia Kelway,"16th Street Mall, Denver, CO",39.7475,-104.996,Charlie 2,Broken and Unreadable
+216,6/5/2024 11:25 AM,Denice Berzin,"Denver Museum of Nature & Science, Denver, CO",39.7328,-104.958,Charlie 3,Loud and Clear
+217,6/5/2024 10:54 AM,Luther Seear,"Washington Park, Denver, CO",39.7014,-104.967,Charlie 4,Loud and Clear
+218,6/5/2024 08:34 PM,Nikki Le Marchant,"Cheesman Park, Denver, CO",39.7281,-104.969,Delta 1,Broken but Readable
+219,6/5/2024 07:45 PM,Brenden Rasor,"City Park, Denver, CO",39.7333,-104.963,Delta 2,Loud and Clear
+220,6/5/2024 03:08 PM,Jodi McFadin,"Sloan's Lake Park, Denver, CO",39.7581,-105.046,Delta 3,Broken and Unreadable
+221,6/5/2024 03:25 PM,Nikos Witherow,"Confluence Park, Denver, CO",39.7542,-105.012,Delta 4,Broken and Unreadable
+222,6/5/2024 02:44 PM,Kienan Stanlack,"Denver Central Market, Denver, CO",39.7664,-105.009,Delta 5,Broken and Unreadable
+223,6/5/2024 12:12 PM,Tabby Burth,"The Source Hotel + Market Hall, Denver, CO",39.7694,-105.009,Delta 6,Loud and Clear
+224,6/5/2024 08:05 AM,Valentin Windus,"Denver Milk Market, Denver, CO",39.7497,-104.993,Delta 7,Broken and Unreadable
+225,6/5/2024 07:44 AM,Kent Daniel,"Avanti Food & Beverage, Denver, CO",39.7603,-105.01,Delta 8,Broken and Unreadable
+226,6/5/2024 07:52 AM,Beverley D'Almeida,"Zeppelin Station, Denver, CO",39.7697,-105.003,Echo 1,Broken and Unreadable
+227,6/5/2024 10:45 PM,Wilma Wahncke,"The Brown Palace Hotel and Spa, Denver, CO",39.7469,-104.997,Echo 2,Broken and Unreadable
+228,6/5/2024 11:43 AM,Janeczka Hefferan,"The Crawford Hotel, Denver, CO",39.7558,-105,Echo 3,Broken but Readable
+229,6/5/2024 04:56 PM,Nance Copperwaite,"The Oxford Hotel, Denver, CO",39.7481,-104.996,Echo 4,Broken but Readable
+230,6/5/2024 08:54 AM,Gregg Brugman,"Hotel Teatro, Denver, CO",39.7464,-104.996,Echo 5,Broken and Unreadable
+231,6/5/2024 01:35 PM,Zacharie Kenrat,"The Ramble Hotel, Denver, CO",39.7669,-105.004,Echo 6,Broken and Unreadable
+232,6/5/2024 01:36 PM,Jedidiah Lunbech,"The Maven Hotel at Dairy Block, Denver, CO",39.75,-104.993,Echo 7,Broken and Unreadable
+233,6/5/2024 11:37 AM,Morissa Itshak,"Kimpton Hotel Born, Denver, CO",39.7569,-105.001,Kilo 1,Broken but Readable
+234,6/5/2024 04:57 PM,Marius Pickerill,"Halcyon, a hotel in Cherry Creek, Denver, CO",39.7125,-104.953,Kilo 2,Failed
+235,7/3/2024 09:44 PM,Horten Cuseck,"1600 Pennsylvania St, Denver, CO",39.7508,-104.997,Alpha 1,No Attempt
+236,7/3/2024 05:40 PM,Jayne Adamovich,"1701 Wynkoop St, Denver, CO",39.7566,-104.999,Alpha 2,Loud and Clear
+237,7/3/2024 05:25 PM,Nelson Fullard,"2001 Blake St, Denver, CO",39.7595,-104.999,Alpha 3,No Attempt
+238,7/3/2024 07:33 PM,Lynsey Scudders,"100 W 14th Ave Pkwy, Denver, CO",39.7419,-105.002,Alpha 4,Failed
+239,7/3/2024 07:58 AM,Ker Lashley,"700 14th St, Denver, CO",39.7461,-104.998,Alpha 5,Loud and Clear
+240,7/3/2024 12:21 PM,Daron Ciobutaro,"16th St Mall, Denver, CO",39.7472,-104.997,Alpha 6,Failed
+241,7/3/2024 11:14 AM,Ignazio Bohden,"1201 Larimer St, Denver, CO",39.7488,-105,Alpha 7,Loud and Clear
+242,7/3/2024 12:54 PM,Willi Batstone,"1401 Curtis St, Denver, CO",39.7494,-104.997,Alpha 8,Broken and Unreadable
+243,7/3/2024 09:53 AM,Dilly Suter,"1601 Arapahoe St, Denver, CO",39.75,-104.996,Bravo 1,Loud and Clear
+244,7/3/2024 06:27 PM,Almeria Clothier,"Civic Center Park, Denver, CO",39.7396,-104.998,Bravo 2,No Attempt
+245,7/3/2024 06:58 PM,Obidiah Lynd,"Union Station, Denver, CO",39.7559,-105,Bravo 3,Failed
+246,7/3/2024 11:11 AM,Dee dee Lainton,"Denver Art Museum, Denver, CO",39.7326,-104.99,Bravo 4,No Attempt
+247,7/3/2024 08:51 AM,Elsi Clare,"Denver Botanic Gardens, Denver, CO",39.7219,-104.966,Bravo 5,Broken but Readable
+248,7/3/2024 06:47 PM,Niki Bentz,"Red Rocks Amphitheatre, Morrison, CO",39.6759,-105.205,Bravo 6,Loud and Clear
+249,7/3/2024 12:18 PM,Grace Aronsohn,"Coors Field, Denver, CO",39.7559,-104.994,Bravo 7,Broken and Unreadable
+250,7/3/2024 07:39 AM,Sherm Mallett,"Pepsi Center, Denver, CO",39.7485,-105.007,Bravo 8,Failed
+251,7/3/2024 08:30 AM,Alecia Ommundsen,"Denver Zoo, Denver, CO",39.7385,-104.969,Bravo 9,Broken but Readable
+252,7/3/2024 05:05 PM,Steve Iashvili,"Elitch Gardens Theme Park, Denver, CO",39.7708,-105.02,Bravo 10,Failed
+253,7/3/2024 10:04 PM,Judd Kennelly,"Cherry Creek Shopping Center, Denver, CO",39.7114,-104.953,Charlie 1,Broken but Readable
+254,7/3/2024 12:14 PM,Laetitia Kelway,"16th Street Mall, Denver, CO",39.7475,-104.996,Charlie 2,Loud and Clear
+255,7/3/2024 01:47 PM,Denice Berzin,"Denver Museum of Nature & Science, Denver, CO",39.7328,-104.958,Charlie 3,Broken but Readable
+256,7/3/2024 06:04 PM,Luther Seear,"Washington Park, Denver, CO",39.7014,-104.967,Charlie 4,Loud and Clear
+257,7/3/2024 02:09 PM,Nikki Le Marchant,"Cheesman Park, Denver, CO",39.7281,-104.969,Delta 1,Loud and Clear
+258,7/3/2024 08:43 PM,Brenden Rasor,"City Park, Denver, CO",39.7333,-104.963,Delta 2,No Attempt
+259,7/3/2024 11:35 PM,Jodi McFadin,"Sloan's Lake Park, Denver, CO",39.7581,-105.046,Delta 3,Broken but Readable
+260,7/3/2024 09:34 AM,Nikos Witherow,"Confluence Park, Denver, CO",39.7542,-105.012,Delta 4,Failed
+261,7/3/2024 06:06 PM,Kienan Stanlack,"Denver Central Market, Denver, CO",39.7664,-105.009,Delta 5,No Attempt
+262,7/3/2024 03:11 PM,Tabby Burth,"The Source Hotel + Market Hall, Denver, CO",39.7694,-105.009,Delta 6,Loud and Clear
+263,7/3/2024 03:02 PM,Valentin Windus,"Denver Milk Market, Denver, CO",39.7497,-104.993,Delta 7,Broken and Unreadable
+264,7/3/2024 02:17 PM,Kent Daniel,"Avanti Food & Beverage, Denver, CO",39.7603,-105.01,Delta 8,Loud and Clear
+265,7/3/2024 01:14 PM,Beverley D'Almeida,"Zeppelin Station, Denver, CO",39.7697,-105.003,Echo 1,Broken but Readable
+266,7/3/2024 08:02 PM,Wilma Wahncke,"The Brown Palace Hotel and Spa, Denver, CO",39.7469,-104.997,Echo 2,Broken and Unreadable
+267,7/3/2024 10:58 PM,Janeczka Hefferan,"The Crawford Hotel, Denver, CO",39.7558,-105,Echo 3,Loud and Clear
+268,7/3/2024 07:25 PM,Nance Copperwaite,"The Oxford Hotel, Denver, CO",39.7481,-104.996,Echo 4,Broken and Unreadable
+269,7/3/2024 09:28 PM,Gregg Brugman,"Hotel Teatro, Denver, CO",39.7464,-104.996,Echo 5,Failed
+270,7/3/2024 11:00 PM,Zacharie Kenrat,"The Ramble Hotel, Denver, CO",39.7669,-105.004,Echo 6,Broken and Unreadable
+271,7/3/2024 07:16 PM,Jedidiah Lunbech,"The Maven Hotel at Dairy Block, Denver, CO",39.75,-104.993,Echo 7,Loud and Clear
+272,7/3/2024 09:05 AM,Morissa Itshak,"Kimpton Hotel Born, Denver, CO",39.7569,-105.001,Kilo 1,No Attempt
+273,7/3/2024 05:24 PM,Marius Pickerill,"Halcyon, a hotel in Cherry Creek, Denver, CO",39.7125,-104.953,Kilo 2,Failed
+274,8/7/2024 09:17 PM,Horten Cuseck,"1600 Pennsylvania St, Denver, CO",39.7508,-104.997,Alpha 1,No Attempt
+275,8/7/2024 11:33 AM,Jayne Adamovich,"1701 Wynkoop St, Denver, CO",39.7566,-104.999,Alpha 2,Broken and Unreadable
+276,8/7/2024 03:23 PM,Nelson Fullard,"2001 Blake St, Denver, CO",39.7595,-104.999,Alpha 3,Failed
+277,8/7/2024 06:33 PM,Lynsey Scudders,"100 W 14th Ave Pkwy, Denver, CO",39.7419,-105.002,Alpha 4,Broken but Readable
+278,8/7/2024 09:40 AM,Ker Lashley,"700 14th St, Denver, CO",39.7461,-104.998,Alpha 5,Broken and Unreadable
+279,8/7/2024 02:18 PM,Daron Ciobutaro,"16th St Mall, Denver, CO",39.7472,-104.997,Alpha 6,Broken and Unreadable
+280,8/7/2024 08:47 PM,Ignazio Bohden,"1201 Larimer St, Denver, CO",39.7488,-105,Alpha 7,Failed
+281,8/7/2024 11:58 AM,Willi Batstone,"1401 Curtis St, Denver, CO",39.7494,-104.997,Alpha 8,Broken but Readable
+282,8/7/2024 11:15 PM,Dilly Suter,"1601 Arapahoe St, Denver, CO",39.75,-104.996,Bravo 1,Broken and Unreadable
+283,8/7/2024 10:56 PM,Almeria Clothier,"Civic Center Park, Denver, CO",39.7396,-104.998,Bravo 2,Broken but Readable
+284,8/7/2024 08:58 AM,Obidiah Lynd,"Union Station, Denver, CO",39.7559,-105,Bravo 3,Failed
+285,8/7/2024 12:28 PM,Dee dee Lainton,"Denver Art Museum, Denver, CO",39.7326,-104.99,Bravo 4,No Attempt
+286,8/7/2024 04:13 PM,Elsi Clare,"Denver Botanic Gardens, Denver, CO",39.7219,-104.966,Bravo 5,Loud and Clear
+287,8/7/2024 10:52 PM,Niki Bentz,"Red Rocks Amphitheatre, Morrison, CO",39.6759,-105.205,Bravo 6,No Attempt
+288,8/7/2024 07:36 AM,Grace Aronsohn,"Coors Field, Denver, CO",39.7559,-104.994,Bravo 7,Broken but Readable
+289,8/7/2024 11:04 PM,Sherm Mallett,"Pepsi Center, Denver, CO",39.7485,-105.007,Bravo 8,Broken and Unreadable
+290,8/7/2024 08:51 AM,Alecia Ommundsen,"Denver Zoo, Denver, CO",39.7385,-104.969,Bravo 9,Loud and Clear
+291,8/7/2024 08:24 AM,Steve Iashvili,"Elitch Gardens Theme Park, Denver, CO",39.7708,-105.02,Bravo 10,Broken but Readable
+292,8/7/2024 05:47 PM,Judd Kennelly,"Cherry Creek Shopping Center, Denver, CO",39.7114,-104.953,Charlie 1,Broken and Unreadable
+293,8/7/2024 09:51 AM,Laetitia Kelway,"16th Street Mall, Denver, CO",39.7475,-104.996,Charlie 2,Broken and Unreadable
+294,8/7/2024 11:31 PM,Denice Berzin,"Denver Museum of Nature & Science, Denver, CO",39.7328,-104.958,Charlie 3,No Attempt
+295,8/7/2024 06:26 PM,Luther Seear,"Washington Park, Denver, CO",39.7014,-104.967,Charlie 4,Failed
+296,8/7/2024 09:33 PM,Nikki Le Marchant,"Cheesman Park, Denver, CO",39.7281,-104.969,Delta 1,No Attempt
+297,8/7/2024 04:28 PM,Brenden Rasor,"City Park, Denver, CO",39.7333,-104.963,Delta 2,Failed
+298,8/7/2024 10:55 AM,Jodi McFadin,"Sloan's Lake Park, Denver, CO",39.7581,-105.046,Delta 3,Loud and Clear
+299,8/7/2024 08:05 AM,Nikos Witherow,"Confluence Park, Denver, CO",39.7542,-105.012,Delta 4,Broken but Readable
+300,8/7/2024 10:30 AM,Kienan Stanlack,"Denver Central Market, Denver, CO",39.7664,-105.009,Delta 5,Broken but Readable
+301,8/7/2024 11:26 AM,Tabby Burth,"The Source Hotel + Market Hall, Denver, CO",39.7694,-105.009,Delta 6,Failed
+302,8/7/2024 09:04 AM,Valentin Windus,"Denver Milk Market, Denver, CO",39.7497,-104.993,Delta 7,Broken and Unreadable
+303,8/7/2024 09:05 PM,Kent Daniel,"Avanti Food & Beverage, Denver, CO",39.7603,-105.01,Delta 8,Loud and Clear
+304,8/7/2024 07:10 PM,Beverley D'Almeida,"Zeppelin Station, Denver, CO",39.7697,-105.003,Echo 1,No Attempt
+305,8/7/2024 07:52 PM,Wilma Wahncke,"The Brown Palace Hotel and Spa, Denver, CO",39.7469,-104.997,Echo 2,Loud and Clear
+306,8/7/2024 07:58 AM,Janeczka Hefferan,"The Crawford Hotel, Denver, CO",39.7558,-105,Echo 3,Broken but Readable
+307,8/7/2024 10:24 PM,Nance Copperwaite,"The Oxford Hotel, Denver, CO",39.7481,-104.996,Echo 4,Broken and Unreadable
+308,8/7/2024 05:43 PM,Gregg Brugman,"Hotel Teatro, Denver, CO",39.7464,-104.996,Echo 5,No Attempt
+309,8/7/2024 05:38 PM,Zacharie Kenrat,"The Ramble Hotel, Denver, CO",39.7669,-105.004,Echo 6,No Attempt
+310,8/7/2024 08:39 AM,Jedidiah Lunbech,"The Maven Hotel at Dairy Block, Denver, CO",39.75,-104.993,Echo 7,No Attempt
+311,8/7/2024 06:18 PM,Morissa Itshak,"Kimpton Hotel Born, Denver, CO",39.7569,-105.001,Kilo 1,Failed
+312,8/7/2024 08:01 AM,Marius Pickerill,"Halcyon, a hotel in Cherry Creek, Denver, CO",39.7125,-104.953,Kilo 2,Broken and Unreadable

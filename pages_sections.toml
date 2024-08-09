@@ -1,0 +1,15 @@
+[[pages]]
+path = "page_overview.py"
+name = "Overview"
+
+[[pages]]
+path = "page_residences.py"
+name = "Residence Map"
+
+[[pages]]
+path = "page_rawdata.py"
+name = "Raw Data"
+
+[[pages]]
+path = "page_readme.py"
+name = "Read Me"
