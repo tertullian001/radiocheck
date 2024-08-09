@@ -16,8 +16,6 @@ Network problems could be members of the network that don't do the radio check (
 ## Required Packages
 Below is a list of pages required to run this project
 ```
-pip install dash
 pip install pandas
 pip install streamlit
-pip install st-pages
 ```

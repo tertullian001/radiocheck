@@ -1,4 +1,6 @@
 import streamlit as st
+st.set_page_config(layout="wide")
+st.title("Radio Check-in Tracker")
 st.markdown("""
 # Read Me
 This is a simple application to demonstrate streamlit functionality. 
@@ -14,4 +16,11 @@ It assumes that all members of the network should do a radio check on a specific
 In addition, it assumes there is a primary point of contact or Net Control Operator that receives each check in and documents the quality of the call. 
 That data is compiled in a database and the dashboard helps to identify potential network problems.
 Network problems could be members of the network that don't do the radio check (**No Attempt**), couldn't complete the check (**Failed**), or a potential technical issue (**Broken and Unreadable**).
+
+## Required Packages
+Below is a list of pages required to run this project
+```
+pip install pandas
+pip install streamlit
+```
 """)
